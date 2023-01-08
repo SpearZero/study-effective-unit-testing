@@ -6,3 +6,4 @@
 - [3장 테스트 더블](./summary/chap03.md)
 - [4장 가독성](./summary/chap04.md)
 - [5장 유지보수성](./summary/chap05.md)
+- [6장 신뢰성](./summary/chap06.md)
