@@ -8,3 +8,5 @@
 - [5장 유지보수성](./summary/chap05.md)
 - [6장 신뢰성](./summary/chap06.md)
 - [7장 테스트 가능 설계](./summary/chap07.md)
+- [8장 제2의 JVM 언어를 활용한 테스트 작성](./summary/chap08.md)
+- [9장 테스트 속도 개선](./summary/chap09.md)
